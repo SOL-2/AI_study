@@ -149,6 +149,7 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
-
+#Sav file
+.sav
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
