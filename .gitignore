@@ -150,6 +150,6 @@ dmypy.json
 .pytype/
 
 #Sav file
-.sav
+*.sav
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
