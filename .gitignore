@@ -151,5 +151,7 @@ dmypy.json
 
 #Sav file
 *.sav
+#Zip file
+*.zip
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
